@@ -24,3 +24,4 @@ https://github.com/yeyoushen0001/fast-cache/issues
 
 - 个人主页
 - 收款二维码
+- 不要钱
